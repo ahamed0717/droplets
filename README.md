@@ -1,6 +1,6 @@
 > WIP
 
-# droplets
+# dropletsss
 
 [![GoDoc](https://godoc.org/github.com/spy16/droplets?status.svg)](https://godoc.org/github.com/spy16/droplets) [![Go Report Card](https://goreportcard.com/badge/github.com/spy16/droplets)](https://goreportcard.com/report/github.com/spy16/droplets)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fspy16%2Fdroplets.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fspy16%2Fdroplets?ref=badge_shield)
